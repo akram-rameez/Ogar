@@ -37,4 +37,4 @@ src/.settings/org.eclipse.wst.jsdt.ui.superType.name
 src/.readwarning
 
 # Config Files
-src/gameserver.ini
+gameserver.ini

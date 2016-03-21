@@ -14,11 +14,11 @@
 // serverMaxLB: Controls the maximum players displayed on the leaderboard.
 serverMaxConnections = 64
 serverPort = 443
-serverGamemode = 1
+serverGamemode = 0
 serverBots = 0
 serverViewBaseX = 1024
 serverViewBaseY = 592
-serverStatsPort = 88
+serverStatsPort = 80
 serverStatsUpdate = 60
 serverLogLevel = 1
 serverScrambleCoords = 1
